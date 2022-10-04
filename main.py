@@ -108,9 +108,6 @@ while True:
 	except ValueError:
             print("\n--Invalid input--\n--Try Again--")
 
-
-
-
 	cc=input("\nDo you want to try again Y/N ")
 	if cc=='y' or cc=='Y':
 		    continue 
@@ -120,16 +117,3 @@ while True:
 	else :
             print("\n--Invalid input--\n--Try Again--")
             continue
-
-
-
-
-
-
-
-
-
-
-
-
-
